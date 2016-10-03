@@ -15,6 +15,16 @@ I did manage to draw a triangle using openGL in the lesson aswell which was sati
 
 I will have more input into the BA game next week, so I can get a rough Idea of what to work on, such as a VR project or an multiplayer aspect, or an PCG or AR element.
 
-## Week Two
-Monday we went over our proposals which I still need to work on a lot more
 
+## Week Two
+Monday we went over our proposals which I still need to work on a lot more over the coming week.
+
+Thursday we covered the graphics pipeline in more depth and made the triangle change colour. I also proposed my graphics and simulation idea which was overscoped and needs to be refined to be more achievable.
+
+Friday we covered how humans interact with stuff.
+
+###Problems I encountered this week:
+* Keeping up with the Comp 220 live coding sessions
+
+###How I aim to overcome these issues
+Review the comp 220 live coding sessions at home and see what ED did that I missed so I can change the size of the triangle.
