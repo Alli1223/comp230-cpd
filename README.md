@@ -28,3 +28,29 @@ Friday we covered how humans interact with stuff.
 
 ###How I aim to overcome these issues
 Review the comp 220 live coding sessions at home and see what ED did that I missed so I can change the size of the triangle.
+
+##Week Three
+Made triangles move about within SDL/openGL and I feel like I know how to move forward with this to make my simulation project work.
+
+###Problems That I encountered this week
+Missed two lectures this week and have to try and catch up on missed material.
+
+###How I aim to overcome these issues
+I will have a tutor meeting to make sure I have understood the missed material about beamer and other things I missed in the lecture.
+
+##Week four
+
+Discussed Ethics and Stereotypes which will help me for my ethics essay.
+Made cube in openGL
+
+Presented our findings on the interface evaluation
+
+###Problems I encountered this week
+The presentation was not very fleshed out because I had not integrated my survey results into the website. Furthermore the website was fairly bland as I spent too much time designing the website instead of actually filling it out with information.
+
+###How I aim to overcome these problems:
+I will spend the weekend working on the Interfaces and Interaction website to fill out most of the information I realized I missed.
+
+
+
+##Week Five
