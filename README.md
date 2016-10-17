@@ -52,5 +52,6 @@ The presentation was not very fleshed out because I had not integrated my survey
 I will spend the weekend working on the Interfaces and Interaction website to fill out most of the information I realized I missed.
 
 
-
 ##Week Five
+Sprint Review
+Planning to meet up with BA Team on Tuesday to organize my component.
