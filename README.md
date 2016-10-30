@@ -53,5 +53,16 @@ I will spend the weekend working on the Interfaces and Interaction website to fi
 
 
 ##Week Five
-Sprint Review
-Planning to meet up with BA Team on Tuesday to organize my component.
+Sprint Review of comp 230
+Met up with BA team on Wednesday to organize my component. I chose to do a networking component because that is what they needed for their game, and I have a little bit of knowledge with unity networking.
+
+
+## Week Six
+Worked on the graphics task for the start of the week and presented it on Thursday.
+Friday I had a viva on the interface and interaction website.
+
+
+##Week Seven
+Monday I presented findings on my ethics essay. 
+
+
