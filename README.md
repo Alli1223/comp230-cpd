@@ -63,6 +63,34 @@ Friday I had a viva on the interface and interaction website.
 
 
 ##Week Seven
-Monday I presented findings on my ethics essay. 
+Monday I presented findings on my ethics essay. Still need to revise my questions to be more etical, because at the moment it is very board and doesn't represent a specific ethical question.
+
+Wednesday I spent at the penryn campus with the second years adding the networking component to their game.
+
+###Issues I encountered this week:
+* Presenting the ethics essay question went badly because the question is too broad, and I fear having a very specific ethical question about crowdfunding will have very little scholarly work done about it that I can reference.
+
+* There is also a lot of unity specifc stuff that I need to learn in order to start intergrating the networking component, because unity has it's own networking High Level API.
+
+###How I aim to overcome these issues:
+ Look at more papers about crowdfunding and see if I can find some ethical questions that have been addressed in other papers that I can reference.
+
+Look deeply into the unity networking documentation and start implementing a lobby scene that I can work on.
+
+##Week Eight
+Was ill on Mondays sprint review, so have booked a tutor session with Mike to go over the material that I missed.
+
+spent Tuesday in the BA's 2nd year room again and managed to get a lobby scene working, based of unitys template. I will continue working on this to fix some of the bugs it has created.
+
+###Problems I encountered this week:
+Missed sprint review
+
+Bugs in unity networking.
+
+Multiple programmers trying to implement the same thing in different ways. For example one of the BA programmers has created a spawn script that tries to spawn players when the game starts. However this does not work when the game starts from the lobby scene.
+
+###How I aim to overcome these issues:
+I will talk to the BA designers and programmers later this week about how they want the game to start.
+
 
 
