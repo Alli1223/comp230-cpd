@@ -91,6 +91,17 @@ Multiple programmers trying to implement the same thing in different ways. For e
 
 ###How I aim to overcome these issues:
 I will talk to the BA designers and programmers later this week about how they want the game to start.
+Went over sprint in tutor meeting.
 
+##Week Nine
+Worked on graphics task and essay on Monday and Tuesday. Fixed lighting issues in graphics and sim project.
+
+Worked on Graphics Research Journal and Pre-Production on Wednesday
+
+
+###Problems I encountered this week:
+Still having issues with the essay topic and what to write about.
+
+###How I aim to overcome these issues:
 
 
