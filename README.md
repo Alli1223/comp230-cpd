@@ -56,10 +56,20 @@ I will spend the weekend working on the Interfaces and Interaction website to fi
 Sprint Review of comp 230
 Met up with BA team on Wednesday to organize my component. I chose to do a networking component because that is what they needed for their game, and I have a little bit of knowledge with unity networking.
 
+###Problems I encountered this week:
+Sprint review didn't happen because lecturer was ill.
+
+###How I aim to overcome these issues:
+
 
 ## Week Six
 Worked on the graphics task for the start of the week and presented it on Thursday.
 Friday I had a viva on the interface and interaction website.
+
+###Problems I encountered this week:
+Struggling with essay topic
+
+###How I aim to overcome these issues:
 
 
 ##Week Seven
