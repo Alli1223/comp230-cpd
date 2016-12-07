@@ -11,9 +11,9 @@ Having tried the vive out at the end of this semester, I  realized how easy it w
 
 Working with a large BA team of 12 people, of which 3 are programmers has been overall a fun experience and has motivated me to be a part of a small indie team.
 
-##Five challenges I have faced:
 
-###Working with a large BA team
+
+##Working with a large BA team
 Working with the BA Digital Game team only part-time has been challenging because I have to catch up with all the work they've been doing over a week or so of having no communication. Further more their team did not have any source control for their project, so I only got an updated build of their game by going to their studio space and requesting a new build.
 This also has the issue of me having to go over their code and work out what they have changed in the last week and work around that.
 
@@ -22,13 +22,13 @@ To overcome this issue, over the course of the next semester I will create a sou
 
 
 
-###Distributing work evenly throughout each week
+##Distributing work evenly throughout each week
 For some weeks this semester I would only focus on one of the 3 assignments, i.e. Only working on comp220 or 230 and not working on comp210. 
 
 ###SMART solution:
 Next semester I will try to organize my week more efficiently so I can only work on some projects in different times of the week. For example only work on one project from days Mon-Tue and another from Wed-Thu etc.. 
 
-###Using source control collaboratively.
+##Using source control collaboratively.
 This semester I have only used source control for my own projects, and have not used it for any collaborative repos. This means that even though I have become more confident in using source control, I have not practiced fixing merge conflicts in a long time.
 
 ###SMART solution:
@@ -40,7 +40,7 @@ Throughout this semester I have been trying to understand the C# language that i
 ###SMART solution:
 Over the Christmas holidays I plan on playing around with the Java programming language. I will try and program some basic functionality to an existing open source java game. This will allow me to have  a head start when we start doing Java programming next semester.
 
-### Becoming more familiar with C++
+## Becoming more familiar with C++
 There are still some key features that I do not yet understand about the C++ language, for example I still can not program pointers into my project and I have not taken advantage of using inheritance in my project also.
 
 ###SMART solution:
@@ -121,15 +121,16 @@ Worked on the graphics task for the start of the week and presented it on Thursd
 Friday I had a viva on the interface and interaction website.
 
 ###Problems I encountered this week:
-Struggling with essay topic
+Struggling to find an easy place to start with the unity networking.
 
 ###How I aim to overcome these issues:
+I will go through the Unity networking tutorials later in the week to try and understand how to go about implementing it.
 
 
 ##Week Seven
 Monday I presented findings on my ethics essay. Still need to revise my questions to be more ethical, because at the moment it is very board and doesn't represent a specific ethical question.
 
-Wednesday I spent at the penryn campus with the second years adding the networking component to their game.
+Wednesday I spent at the Penryn campus with the second years adding the networking component to their game.
 
 ###Issues I encountered this week:
 * Presenting the ethics essay question went badly because the question is too broad, and I fear having a very specific ethical question about crowdfunding will have very little scholarly work done about it that I can reference.
@@ -219,13 +220,6 @@ Only focusing on one project mainly per week, when I should of been spreading my
 
 ###How I aim to overcome these issues:
 Next semester I will try to organize my week more efficiently so I can only work on some projects in different times of the week. For example only work on one project from days Mon-Tue and another from Wed-Thu etc..
-
-Issue1: Not prioritizing work that I prefer.
-Issue2: Communicating with a large team better.
-Issue3: Working on work evenly throughout the semester
-Issue4:
-Issue5:
-
 
 
 
