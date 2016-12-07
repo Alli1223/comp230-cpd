@@ -1,3 +1,57 @@
+#Summary
+
+##Career Goals
+This first semester has been rather enjoyable, and I have learnt a load of new stuff since last year.
+For my career goals after this course I'm still not sure what I would like to do, either be a part of a small Indie team or work for a company. 
+
+##Progress towards these goals
+The comp220 portfolio project has made me motivated to start my own game project in C++ as I have really enjoyed knowing how the low level game engine components work. I have also bee inspired by the game Cube World which is very similar to what I have been creating in the comp220 project.
+
+Having tried the vive out at the end of this semester, I  realized how easy it was to integrate the vive into Unity, and how easy it would be to create a fun simple vive game in it. If I had better access to a vive I would like to start playing around more with what is possible to do in unity to create a fun VR experience.
+
+Working with a large BA team of 12 people, of which 3 are programmers has been overall a fun experience and has motivated me to be a part of a small indie team.
+
+##Five challenges I have faced:
+
+###Working with a large BA team
+Working with the BA Digital Game team only part-time has been challenging because I have to catch up with all the work they've been doing over a week or so of having no communication. Further more their team did not have any source control for their project, so I only got an updated build of their game by going to their studio space and requesting a new build.
+This also has the issue of me having to go over their code and work out what they have changed in the last week and work around that.
+
+###SMART solution:
+To overcome this issue, over the course of the next semester I will create a source control repository for all the programmers in the team and help teach them how to use source control, so they can upload their new scripts to the repo, then I can see what they've changed and work on top of that. I will measure this by how much they update the code in the repository.
+
+
+
+###Distributing work evenly throughout each week
+For some weeks this semester I would only focus on one of the 3 assignments, i.e. Only working on comp220 or 230 and not working on comp210. 
+
+###SMART solution:
+Next semester I will try to organize my week more efficiently so I can only work on some projects in different times of the week. For example only work on one project from days Mon-Tue and another from Wed-Thu etc.. 
+
+###Using source control collaboratively.
+This semester I have only used source control for my own projects, and have not used it for any collaborative repos. This means that even though I have become more confident in using source control, I have not practiced fixing merge conflicts in a long time.
+
+###SMART solution:
+Next semester I will try and set up a collaborative repository where I can work with other students together to increase my knowledge of fixing the source control related issues that come with collaborative repos. I will measure this by my ability to fix source control conflicts next semester.
+
+##Learning other programming languages
+Throughout this semester I have been trying to understand the C# language that is integrated with Unity. This has been fairly challenging as the way C# in Untiy works is very different to how C++ in OpenGL and SDL work. Furthermore next semester I will have to learn Java on top of this.
+
+###SMART solution:
+Over the Christmas holidays I plan on playing around with the Java programming language. I will try and program some basic functionality to an existing open source java game. This will allow me to have  a head start when we start doing Java programming next semester.
+
+### Becoming more familiar with C++
+There are still some key features that I do not yet understand about the C++ language, for example I still can not program pointers into my project and I have not taken advantage of using inheritance in my project also.
+
+###SMART solution:
+Over the Christmas break I will continue development of my OpenGL project and will try to optimize the code by learning and implementing points into my program. I will measure this by my commits to github and progress of learning new C++ features.
+
+
+
+
+
+
+
 # Weekly Reports
 
 ## Week One
@@ -8,7 +62,7 @@ Monday was a catch up session that I went over this years course materials.
 
 Thursday we went over the graphics pipeline, which I was already kind of familiar with as Computerphile went over this topic in a few of their videos.
 
-I did manage to draw a triangle using openGL in the lesson aswell which was satisfying, although I still need to familiar myself with a lot of what the code actually does.
+I did manage to draw a triangle using openGL in the lesson as-well which was satisfying, although I still need to familiar myself with a lot of what the code actually does.
 
 
 ###How I aim to overcome these issues:
@@ -57,10 +111,10 @@ Sprint Review of comp 230
 Met up with BA team on Wednesday to organize my component. I chose to do a networking component because that is what they needed for their game, and I have a little bit of knowledge with unity networking.
 
 ###Problems I encountered this week:
-Sprint review didn't happen because lecturer was ill.
+Sprint review didn't happen.
 
 ###How I aim to overcome these issues:
-
+I will document what progress I have done this sprint to present to a lecturer later on.
 
 ## Week Six
 Worked on the graphics task for the start of the week and presented it on Thursday.
@@ -168,33 +222,10 @@ Next semester I will try to organize my week more efficiently so I can only work
 
 Issue1: Not prioritizing work that I prefer.
 Issue2: Communicating with a large team better.
-Issue3:
+Issue3: Working on work evenly throughout the semester
 Issue4:
 Issue5:
 
-#Summary
-
-##Career Goals
-This first semester has been rather enjoyable, and I have learnt a load of new stuff since last year.
-For my career goals after this course I'm still not sure what I would like to do, either be a part of a small Indie team or work for a company. 
-
-##Progress towards these goals
-The comp220 portfolio project has made me motivated to start my own game project in C++ as I have really enjoyed knowing how the low level game engine components work. I have also bee inspired by the game Cube World which is very similar to what I have been creating in the comp220 project.
-
-Having tried the vive out at the end of this semester, I  realized how easy it was to integrate the vive into Unity, and how easy it would be to create a fun simple vive game in it. If I had better access to a vive I would like to start playing around more with what is possible to do in unity to create a fun VR experience.
-
-Working with a large BA team of 12 people, of which 3 are programmers has been overall a fun experience and has motivated me to be a part of a small indie team.
-
-##Challenges I have faced:
-
-###Working with a large BA team
-Working with the BA Digital Game team only part-time has been challenging because I have to catch up with all the work they've been doing over a week or so of having no communication. Further more their team did not have any source control for their project, so I only got an updated build of their game by going to their studio space and requesting a new build.
-This also has the issue of me having to go over their code and work out what they have changed in the last week and work around that.
-
-###Prioritizing work I prefer doing (e.g. Programming over essay writing)
-
-
-##SMART solutions:
 
 
 
