@@ -174,11 +174,29 @@ Issue5:
 
 #Summary
 
-##This first semester has been rather enjoyable, with 
+##Career Goals
+This first semester has been rather enjoyable, and I have learnt a load of new stuff since last year.
+For my career goals after this course I'm still not sure what I would like to do, either be a part of a small Indie team or work for a company. 
 
 ##Progress towards these goals
+The comp220 portfolio project has made me motivated to start my own game project in C++ as I have really enjoyed knowing how the low level game engine components work. I have also bee inspired by the game Cube World which is very similar to what I have been creating in the comp220 project.
 
-5 challenges and 5 SMART solutions:
+Having tried the vive out at the end of this semester, I  realized how easy it was to integrate the vive into Unity, and how easy it would be to create a fun simple vive game in it. If I had better access to a vive I would like to start playing around more with what is possible to do in unity to create a fun VR experience.
+
+Working with a large BA team of 12 people, of which 3 are programmers has been overall a fun experience and has motivated me to be a part of a small indie team.
+
+##Challenges I have faced:
+
+###Working with a large BA team
+Working with the BA Digital Game team only part-time has been challenging because I have to catch up with all the work they've been doing over a week or so of having no communication. Further more their team did not have any source control for their project, so I only got an updated build of their game by going to their studio space and requesting a new build.
+This also has the issue of me having to go over their code and work out what they have changed in the last week and work around that.
+
+###Prioritizing work I prefer doing (e.g. Programming over essay writing)
+
+
+##SMART solutions:
+
+
 
 
 
