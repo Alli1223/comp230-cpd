@@ -223,6 +223,19 @@ Next semester I will try to organize my week more efficiently so I can only work
 
 
 
+#Semester Two
 
+##Week One
+This week we came up with an initial design for the comp 260 Distributed systems sever. 
+We also covered what AI is, and have started thinking about what to work on for my AI portfolio project.
 
+###Problems I encountered this week:
+Getting back into the rhythm of working from the Christmas break.
+
+###How I aim to overcome these issues:
+Spend more time in the studio next week.
+
+##Week Two 
+Missed Mondays lecture due to health issues. 
+Tuesday spent in studio working on comp240-production tasks. & AI lecture.
 
