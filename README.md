@@ -239,3 +239,19 @@ Spend more time in the studio next week.
 Missed Mondays lecture due to health issues. 
 Tuesday spent in studio working on comp240-production tasks. & AI lecture.
 
+Problems I encountered this week:
+Getting started on the comp240-production is really challenging as i am not too sure where to start, because the game has changed so much over the last few weeks.
+
+How I aim to overcome these issues:
+Over the coming week I will go over the changes they have made and try and understand them.
+
+##Week Three 
+Monday spent working more on the comp260-server which I have started to work on the database that is needed for the server to store game data.
+This has turned out to be quite challenging as setting up SQL and Java within eclipse is actually rather hard to get working, as you need to get JDBC drivers that will connect to the database.
+Missed tuesdays lecture. However I have booked a tutor meeting to go over the comp 250 AI proposal that I have come up with.
+
+Problems I encountered this week:
+Understanding how to intergrate sql into Java.
+
+How I aim to overcome these issues:
+I will try and find some tutorials over the weekend and try and get a basic SQL database connected to the server by the beginning of next week.
