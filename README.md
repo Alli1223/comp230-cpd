@@ -2,7 +2,7 @@
 
 ##Career Goals
 This first semester has been rather enjoyable, and I have learnt a load of new stuff since last year.
-For my career goals after this course I'm still not sure what I would like to do, either be a part of a small Indie team or work for a company. 
+For my career goals after this course I'm still not sure what I would like to do, either be a part of a small Indie team or work for a company.
 
 ##Progress towards these goals
 The comp220 portfolio project has made me motivated to start my own game project in C++ as I have really enjoyed knowing how the low level game engine components work. I have also bee inspired by the game Cube World which is very similar to what I have been creating in the comp220 project.
@@ -23,10 +23,10 @@ To overcome this issue, over the course of the next semester I will create a sou
 
 
 ##Distributing work evenly throughout each week
-For some weeks this semester I would only focus on one of the 3 assignments, i.e. Only working on comp220 or 230 and not working on comp210. 
+For some weeks this semester I would only focus on one of the 3 assignments, i.e. Only working on comp220 or 230 and not working on comp210.
 
 ###SMART solution:
-Next semester I will try to organize my week more efficiently so I can only work on some projects in different times of the week. For example only work on one project from days Mon-Tue and another from Wed-Thu etc.. 
+Next semester I will try to organize my week more efficiently so I can only work on some projects in different times of the week. For example only work on one project from days Mon-Tue and another from Wed-Thu etc..
 
 ##Using source control collaboratively.
 This semester I have only used source control for my own projects, and have not used it for any collaborative repos. This means that even though I have become more confident in using source control, I have not practiced fixing merge conflicts in a long time.
@@ -226,7 +226,7 @@ Next semester I will try to organize my week more efficiently so I can only work
 #Semester Two
 
 ##Week One
-This week we came up with an initial design for the comp 260 Distributed systems sever. 
+This week we came up with an initial design for the comp 260 Distributed systems sever.
 We also covered what AI is, and have started thinking about what to work on for my AI portfolio project.
 
 ###Problems I encountered this week:
@@ -235,8 +235,8 @@ Getting back into the rhythm of working from the Christmas break.
 ###How I aim to overcome these issues:
 Spend more time in the studio next week.
 
-##Week Two 
-Missed Mondays lecture due to health issues. 
+##Week Two
+Missed Mondays lecture due to health issues.
 Tuesday spent in studio working on comp240-production tasks. & AI lecture.
 
 Problems I encountered this week:
@@ -245,7 +245,7 @@ Getting started on the comp240-production is really challenging as i am not too 
 How I aim to overcome these issues:
 Over the coming week I will go over the changes they have made and try and understand them.
 
-##Week Three 
+##Week Three
 Monday spent working more on the comp260-server which I have started to work on the database that is needed for the server to store game data.
 This has turned out to be quite challenging as setting up SQL and Java within eclipse is actually rather hard to get working, as you need to get JDBC drivers that will connect to the database.
 Missed tuesdays lecture. However I have booked a tutor meeting to go over the comp 250 AI proposal that I have come up with.
@@ -255,3 +255,17 @@ Understanding how to intergrate sql into Java.
 
 How I aim to overcome these issues:
 I will try and find some tutorials over the weekend and try and get a basic SQL database connected to the server by the beginning of next week.
+
+##Week Four
+Spent monday working colaberativly on the server task, and I realised that I have a lot of work to do on it by next week.
+Spent tuesday working on my comp150-AI portfolio project, I really like the idea that I have for it at the moment which is a a 2D top-down simulation game, where each agent in the game has needs such as sleep, hunger etc, and they need to seek out facilities on a ship. This will all be done using a Behaviour Tree.
+Worked on the server more as a group in penryn on thrusday, made a little bit of progress.
+Friday I worked a little bit more on the server to make it thread safe.
+
+###Problems I encountered this week:
+Understanding Thread safty.
+
+###How I aim to overcome these isues:
+Read the book about concurency in Java.
+
+##Week Five...
