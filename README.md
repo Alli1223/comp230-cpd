@@ -248,24 +248,40 @@ Over the coming week I will go over the changes they have made and try and under
 ##Week Three
 Monday spent working more on the comp260-server which I have started to work on the database that is needed for the server to store game data.
 This has turned out to be quite challenging as setting up SQL and Java within eclipse is actually rather hard to get working, as you need to get JDBC drivers that will connect to the database.
-Missed tuesdays lecture. However I have booked a tutor meeting to go over the comp 250 AI proposal that I have come up with.
+Missed Tuesdays lecture. However I have booked a tutor meeting to go over the comp 250 AI proposal that I have come up with.
 
 ###Problems I encountered this week:
-Understanding how to intergrate sql into Java.
+Understanding how to integrate SQL into Java.
 
 ###How I aim to overcome these issues:
 I will try and find some tutorials over the weekend and try and get a basic SQL database connected to the server by the beginning of next week.
 
 ##Week Four
-Spent monday working colaberativly on the server task, and I realised that I have a lot of work to do on it by next week.
-Spent tuesday working on my comp150-AI portfolio project, I really like the idea that I have for it at the moment which is a a 2D top-down simulation game, where each agent in the game has needs such as sleep, hunger etc, and they need to seek out facilities on a ship. This will all be done using a Behaviour Tree.
-Worked on the server more as a group in penryn on thrusday, made a little bit of progress.
+Spent Monday working collaboratively on the server task, and I realized that I have a lot of work to do on it by next week.
+Spent Tuesday working on my comp150-AI portfolio project, I really like the idea that I have for it at the moment which is a a 2D top-down simulation game, where each agent in the game has needs such as sleep, hunger etc, and they need to seek out facilities on a ship. This will all be done using a Behavior Tree.
+Worked on the server more as a group in Penryn on Thursday, made a little bit of progress.
 Friday I worked a little bit more on the server to make it thread safe.
 
 ###Problems I encountered this week:
-Understanding Thread safty.
+Understanding Thread safety.
 
-###How I aim to overcome these isues:
-Read the book about concurency in Java.
+###How I aim to overcome these issues:
+Read the book about concurrency in Java.
 
-##Week Five...
+##Week Five
+Sprint review for comp240 was first thing Monday, which I have not done enough work as I would of liked to on it.
+Then we spent the rest of the day finishing off the server that was due at 5PM. I feel like I did not contribute a lot towards the networking of the server, which I may have been quite good at, but other people were working on it instead. I managed to get the database storing questions and answers in one database and the players score in another. However my code could have been made a lot more efficient I feel like it is now thread safe.
+Tuesday I was talking to the new lecturer Brian about our CPD tasks and report from last semester and working out where I would like to go after uni.
+Wednesday I was working on the AI project which is going pretty well at the moment, I have multiple agents spawning in and they can calculate their own paths. The lecture on Wednesday from the AI researchers was also very useful as some of the ideas mentioned by one of them gave me a good idea about how to go about implementing AI into my AI project. 
+
+###Problems I encountered this week:
+Motivation to work on my comp240 project.
+Where and how to start implementing a behavior tree for my AI project
+
+###How I aim to overcome these issues: 
+Over the coming week open the comp240 project and create a diagram of how it works so I can understand what is going on.
+Do some research on the internet to see how it can be done.
+
+
+##Week Six...
+
