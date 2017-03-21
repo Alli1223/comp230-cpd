@@ -284,4 +284,33 @@ Do some research on the internet to see how it can be done.
 
 
 ##Week Six...
+Spent most of this week on AI
 
+
+###problems I encountered this week:
+
+###How I aim to overcome these issues: 
+
+
+
+##Week Seven
+Worked on creating business presentation
+Presented it on Friday, but I am very bad a public speaking. Furthermore I am not working with the BA team for the comp240 networking stuff as they cut that feature from their game.
+
+
+##Week Eight
+Monday was sprint review for comp240 (need to do a lot more)
+Started comp260 client
+Worked on comp250 Wednesday Thursday
+Had PCG lecture.
+
+problems I encountered tis week:
+getting my head around AI behavior trees
+
+
+##Week Nine
+Monday we had a lecuture on networking
+Tuesday I worked on 
+
+
+##Week Ten
